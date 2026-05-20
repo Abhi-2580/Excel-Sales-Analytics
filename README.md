@@ -94,8 +94,7 @@ To **prioritize** tasks based on feasibility, impact, and size.
 <br>
 
 
-### 🔧 Application 2: _[Scenario Planning Tool](https://github.com/Abhi-2580/Excel-Reports-and-Tools/blob/main/Scenario%20Planning%20Tool.pdf
-)_
+### 🔧 Application 2: _[Scenario Planning Tool](https://github.com/Abhi-2580/Excel-Reports-and-Tools/blob/main/Scenario%20Planning%20Tool.pdf)_
 
 #### Objective
 To simplify customer **discount approval calculations** using different business scenarios.
