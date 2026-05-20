@@ -28,13 +28,24 @@ Transform raw, unstructured data into clear, actionable insights through ETL, da
 ## 📈 Project 1: Sales Analytics
 
 ### Objective
-To analyze sales performance and generate actionable business insights for AtliQ Hardwares.
+To analyze sales performance and generate actionable business insights for AtliQ Hardwares, I had created 7 report with their respective objective.
 
-- **Project objective:** 
+   **1.** To analyze AtliQ’s customer performance over time by creating a _[Customer Net Sales Performance](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ Report.
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+   **2.** To compare actual market performance with sales targets by creating a _[Market Performance vs Target](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ Report. 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+   **3.** To identify the _[top 10 products](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ with the highest net sales growth from 2020 to 2021. 
+
+   **4.** To evaluate net sales growth percentage across different divisions through a _[Division Level Report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_.
+
+   **5.** To find the _[top and bottom 5 products](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ based on quantity sold.
+
+   **6.** To analyze _[newly launched products](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ introduced by AtliQ in 2021.
+
+   **7.** To identify the _[top 5 countries](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ contributing the highest net sales in 2021.
+
+
+
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
