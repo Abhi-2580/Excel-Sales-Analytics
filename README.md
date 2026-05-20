@@ -14,8 +14,6 @@ Transform raw, unstructured data into clear, actionable insights through ETL, da
 <br>
 
 ---
-<br>
-
 ## 📁 Projects Included
 | |Type|Name|
 |-|-|-|
@@ -25,12 +23,11 @@ Transform raw, unstructured data into clear, actionable insights through ETL, da
 |4|🔧 Application|Scenario Planning Tool|
 
 <br>
-<br>
 
 ### 📈 Project 1: Sales Analytics
 
 #### 💫 Objective
-To analyze sales performance and generate actionable business insights for AtliQ Hardwares, I had created 7 report with their respective objective.
+To analyze sales performance and generate actionable business insights for AtliQ Hardwares, I created 7 reports with their respective objective.
 
    **1.** To analyze AtliQ’s customer performance over time by creating a _[Customer Net Sales Performance](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ Report.
 
@@ -47,67 +44,49 @@ To analyze sales performance and generate actionable business insights for AtliQ
    **7.** To identify the _[top 5 countries](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ contributing the highest net sales in 2021.
 
 
+#### 💫 Key Achievements:
 
-
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
-
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
-
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
-
- Key Achievements: Enabled businesses to monitor and evaluate their sales activities effectively. Identified critical sales patterns and tracked essential key performance indicators (KPIs). 
-
-Assisted in determining optimal customer discounts, facilitating consumer negotiations, and pinpointing promising international expansion opportunities. 
+- Helped businesses track and evaluate their sales activities and performance.
+- Spotted sales patterns and monitored key performance indicators (KPIs).
+- Analyzed data to find the best customer discounts and support negotiations.
+- Identified countries with strong growth potential to guide business expansion decisions.
 
 
 ---
 
-## 2. Finance Analytics Project
-## 💰 Project 2: Finance Analytics
+### 💰 Project 2: Finance Analytics
 
-### 💫 Objective
-To create financial reports for analyzing profit and loss performance across different periods and markets.
+#### 💫 Objective
+To analyze profit and loss performance across different periods and markets, I created 4 reports with their respective objective.
 
-To analyze year-over-year profitability performance through the P&L by Fiscal Year Report.
-To track monthly financial performance trends using the P&L by Fiscal Months Report.
-To compare profitability across different markets through the P&L by Markets Report.
-To evaluate gross margin percentage by region and quarter using the GM% by Quarters (Sub-Zone) Report.
+   **1.** To analyze year-over-year profitability performance through the _[P&L by Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ Report.
 
+   **2.** To track monthly financial performance trends using the _[P&L by Fiscal Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ Report.
 
-- **Project objective:** 
+   **3.** To compare profitability across different markets through the _[P&L by Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ Report.
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+   **4.** To evaluate gross margin percentage by region and quarter using the _[GM% by Quarters (Sub-Zone)](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ Report.
+    
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+#### 💫 Key Achievements:
 
-### 💫 Key Achievements:
+- Reviewed and analyzed financial performance to help the team make better decisions.
+- Created clear reports that made it easy to communicate with stakeholders.
+- Compared results with industry peers to set a strong base for budgeting and future planning.
+- Helped align financial plans with the company's bigger goals and built trust in the financial outlook.
 
-Evaluated financial performance comprehensively, enabling informed decision-making and clear communication with stakeholders.
-Delivered insightful sales analytics reports that aligned financial planning with strategic goals and instilled confidence in the organization's financial outlook.
-Established a benchmarking framework against industry peers, laying a strong foundation for budgeting and forecasting.
-
-💫 Key Achievements:
-
-Reviewed and analyzed financial performance to help the team make better decisions.
-Created clear reports that made it easy to communicate with stakeholders.
-Compared results with industry peers to set a strong base for budgeting and future planning.
-Helped align financial plans with the company's bigger goals and built trust in the financial outlook.
-
-💫Key Achievements:
- Evaluated financial performance comprehensively, facilitating informed decisionmaking. Supported effective communication with stakeholders through clear and insightful reports. Contributed to benchmarking against industry peers and established a foundation for budgeting and forecasting 
-
+<br>
 
 ---
 
-# 🚀 Real-Time Business Applications
+## 🚀 Real-Time Business Applications
 
-## 1. Project Priority Matrix
-## 🛠️ Application 1: Project Priority Matrix
+### 🛠️ Application 1: Project Priority Matrix
 
-### Objective
+#### Objective
 To prioritize tasks based on feasibility, impact, and size.
 
-### Features
+#### Features
 
 - Bubble Chart Visualization
 - 4-Quadrant Priority Matrix
@@ -116,13 +95,12 @@ To prioritize tasks based on feasibility, impact, and size.
 
 ---
 
-## 2. Scenario Planning Tool
-## 🔧 Application 2: Scenario Planning Tool
+### 🔧 Application 2: Scenario Planning Tool
 
-### Objective
+#### Objective
 To simplify customer discount approval calculations using different business scenarios.
 
-### Features
+#### Features
 
 - Dynamic Filters
 - Scenario-Based Planning
@@ -130,19 +108,7 @@ To simplify customer discount approval calculations using different business sce
 - Gross Margin Target Tracking
 - Automated Business Calculations
 
----
-
-
----
-
-\---
-
-
-\---
-
-
-\---
-
+<br>
 
 ---
 
@@ -155,22 +121,20 @@ To simplify customer discount approval calculations using different business sce
 - [x]	Proficient in Data modelling using Star Schema in Power Pivot.
 - [x]	Skilled in integrating additional data into existing data models.
 - [x]	Experienced in using DAX to create calculated columns and measures.
-- [x]      Adept at creating advanced Excel reports and quick summaries using Pivot Tables.
-- [x]      Learned to build real-time business applications such as Project Priority Matrix and Scenario Planning Tools to improve business processes.
+- [x] Adept at creating advanced Excel reports and quick summaries using Pivot Tables.
+- [x] Learned to build real-time business applications such as Project Priority Matrix and Scenario Planning Tools to improve business processes.
 
 ## 💫Soft Skills:
 - [x]	Possess a refined understanding of Sales and Finance Reports. 
 - [x]	Capable of designing user-friendly and business-focused reports with empathy.
 - [x]	Experienced in optimizing and fine-tuning reports for better performance and efficiency.
 - [x]	Skilled in developing a structured and systematic approach to report building. 
-- [x]      Understand the importance of analytical thinking and problem-solving mindset.
+- [x] Understand the importance of analytical thinking and problem-solving mindset.
 
+<br>
 
 ---
 
 # 👨‍💻 About Me
 
-I built these projects and applications as part of my Data Analytics learning journey to strengthen my practical business analysis and reporting skills using Excel-based 
-
-
-I built these projects as part of my Data Analytics learning journey to strengthen my practical business analysis and reporting skills using Excel-based analytics tools.
+I built these projects and applications as part of my Data Analytics learning journey to strengthen my practical business analysis and reporting skills using Excel-based analytics tools.
