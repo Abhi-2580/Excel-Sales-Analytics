@@ -1,5 +1,10 @@
-# 📊 Excel Data Analytics Portfolio
+## 📈 Sales Analytics Reports
 
+### Customer Net Sales Performance
+![Customer Net Sales](./images/customer_net_sales.png)
+
+### Market Performance vs Target
+![Market Performance](./images/market_performance.png)
 ## 🚀 About The Project
 
 This repository contains Business Analytics Projects and Real-Time Business Applications built using Excel, Power Query, Power Pivot, and DAX.
