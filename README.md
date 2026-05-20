@@ -54,25 +54,6 @@ To analyze sales performance and generate actionable business insights for AtliQ
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
 
-### Reports Created
-
-1. Customer Net Sales Performance  
-2. Market Performance vs Target  
-3. Top 10 Products  
-4. Division Level Report  
-5. Top & Bottom 5 Products by Quantity  
-6. New Launch Products - 2021  
-7. Top 5 Countries by Net Sales  
-
-### Key Business Questions Solved
-
-- Customer sales performance analysis
-- Market target achievement tracking
-- Product growth analysis
-- Division-wise sales growth analysis
-- Product quantity performance ranking
-- New product launch tracking
-- Country-level sales analysis
 
 ### Skills Applied
 
