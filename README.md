@@ -24,7 +24,7 @@ Transform raw, unstructured data into clear, actionable insights through ETL, da
 #### 💫 Objective
 To analyze sales performance and generate actionable business insights for AtliQ Hardwares, I created 7 reports with their respective objective.
 
-   **1.** To analyze AtliQ’s customer performance over time by creating a _[Customer Net Sales Performance](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ Report.
+   **1.** To analyze AtliQ’s customer performance over time by creating a _[Customer Net Sales Performance](https://github.com/Abhi-2580/Excel-Reports-and-Tools/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf)_ Report.
 
    **2.** To compare actual market performance with sales targets by creating a _[Market Performance vs Target](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ Report. 
 
@@ -47,7 +47,8 @@ To analyze sales performance and generate actionable business insights for AtliQ
 - Identified countries with strong growth potential to guide business expansion decisions.
 
 
----
+<br>
+
 
 ### 💰 Project 2: Finance Analytics
 
@@ -90,7 +91,8 @@ To prioritize tasks based on feasibility, impact, and size.
 - Task Prioritization Framework
 - Interactive and Visual Decision-Making Tool
 
----
+<br>
+
 
 ### 🔧 Application 2: Scenario Planning Tool
 
