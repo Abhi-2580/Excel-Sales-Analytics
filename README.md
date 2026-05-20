@@ -1,45 +1,62 @@
-# Excel-Sales-Analytics
-## Sales Report :
+# 📊 Excel Sales & Finance Analytics | AtliQ Hardwares
 
+An Excel-based analytics portfolio built on 500,000+ records of sales data for AtliQ Hardwares — a global hardware company selling PCs, printers, mice, and computers.
 
-- **Project objective:** 
+## 🎯 Problem & Goal
 
-    **1.** Create a _[customer performance report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_ 
+AtliQ Hardwares needed a way to track performance across markets, customers, and products. The goal was to clean messy, unorganized data and build reports that help the team make decisions around **Net Sales** and **Gross Margin**.
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+---
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+## 📁 Projects
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+### 1. Sales Analytics
+> 7 reports built to answer key sales questions.
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+| Report | Business Question Answered |
+|--------|---------------------------|
+| Customer Net Sales Performance | How have customers performed over time? |
+| Market Performance vs Target | Are we hitting targets in each market? |
+| Top 10 Products | Which products grew most from 2020 to 2021? |
+| Division Level Report | What are net sales and growth % by division? |
+| Top & Bottom 5 Products (QTY) | Which products sell the most and least? |
+| New Products – 2021 | What new products did AtliQ launch in 2021? |
+| Top 5 Countries | Which countries led in net sales in 2021? |
 
+**Tools & Techniques:** Power Query, Power Pivot, DAX (`CALCULATE`, `DIVIDE`), Star Schema Data Modelling, Pivot Tables, Conditional Formatting.
 
-## Finance Report :
+---
 
-- **Project objective:** 
+### 2. Finance Analytics
+> 4 P&L reports to track profitability.
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+- P&L Statement by Fiscal Year
+- P&L Statement by Fiscal Months
+- P&L Statement by Markets
+- GM% by Quarters (Sub-Zone)
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+**Tools & Techniques:** `FORMAT()`, `DATE()`, `IFERROR()`, `ROUNDUP()`, Custom Pivot Table Styles, Gross Margin calculations in Millions.
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+---
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+## ⚙️ Real-Time Business Applications
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+### 3. Project Priority Matrix
+A bubble chart tool to help prioritize tasks based on **Feasibility**, **Impact**, and **Size** — visualized across a 4-grid axis.
 
+### 4. Scenario Planning Tool
+A dynamic discount approval calculator with filters (Customer, Product, Date) and parameters (Discount %, COGS, GM Target). Models three outcomes:
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+- ✅ Best Case
+- 🔄 Realistic Case
+- ❌ Worst Case
 
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+---
+
+## 🛠️ Skills Used
+`ETL` · `Power Query` · `Power Pivot` · `DAX` · `Data Modelling` · `Pivot Tables` · `Excel Charts` · `Report Design`
+
+---
+
+## 👤 Author
+**Lavi** — Aspiring Data Analyst plan.
