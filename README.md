@@ -1,210 +1,158 @@
-## 📈 Sales Analytics Reports
+# Excel Sales & Finance Analytics | AtliQ Hardwares 💾
 
-### Customer Net Sales Performance
-![Customer Net Sales](./images/customer_net_sales.png)
-
-### Market Performance vs Target
-![Market Performance](./images/market_performance.png)
-## 🚀 About The Project
-
-This repository contains Business Analytics Projects and Real-Time Business Applications built using Excel, Power Query, Power Pivot, and DAX.
-
-The projects are based on AtliQ Hardwares — a global hardware company specializing in PCs, printers, mice, and peripheral devices.
-
-The primary goal of these projects is to transform large and unorganized datasets into meaningful business insights that support strategic decision-making and KPI tracking.
+> Transforming 500,000+ records of raw sales data into strategic business insights using Microsoft Excel.
 
 ---
 
-# 💾 Problem Statement
+## 📌 Problem Statement
 
-AtliQ Hardwares faced challenges in:
-
-- Optimizing sales performance
-- Improving net gross margins
-- Tracking KPIs effectively
-- Analyzing large volumes of unorganized sales and finance data
-
-These projects focus on solving those business problems through data analytics and reporting.
+AtliQ Hardwares — a global company selling PCs, printers, mice, and peripheral devices through retailers like Croma, Best Buy, Flipkart, and Amazon — needed a structured way to monitor sales performance and improve net gross margins. The data existed but was unorganized, making it impossible to track KPIs or make informed decisions.
 
 ---
 
-# 🎯 Project Goals
+## 🎯 Project Goal
 
-- Analyze more than 500K+ sales records
-- Build interactive analytical reports
-- Extract business insights from raw data
-- Improve business decision-making
-- Track sales and financial KPIs
-- Support strategic planning and profitability analysis
+Build a complete **Sales & Finance Analytics report system** in Excel by applying ETL methodology on 500K+ records — uncovering insights that empower AtliQ to track performance, negotiate smarter, and plan for growth.
 
 ---
 
-# 🛠 Tools & Technologies
+## 🛠️ Tools & Skills Used
 
-- Microsoft Excel
-- Power Query
-- Power Pivot
-- DAX
-- Pivot Tables
-- Data Modelling
-- Star Schema
+**Tool:** Microsoft Excel 365
 
----
-
-# 📘 Project 1: Sales Analytics
-
-## 📌 Objective
-
-To analyze customer and market performance and generate actionable sales insights for AtliQ Hardwares.
-
-## 📊 Reports Created
-
-1. Customer Net Sales Performance  
-2. Market Performance vs Target  
-3. Top 10 Products  
-4. Division Level Report  
-5. Top & Bottom 5 Products by Quantity  
-6. New Launch Products - 2021  
-7. Top 5 Countries by Net Sales  
+| Technical Skills | Soft Skills |
+|-----------------|-------------|
+| ETL (Extract, Transform, Load) | User-empathetic report design |
+| Power Query (date tables, fiscal months & quarters) | Translating data into business language |
+| Power Pivot & Data Modelling | Systematic report planning |
+| DAX — calculated columns & measures | Stakeholder-focused communication |
+| Pivot Tables & Advanced Formatting | |
 
 ---
 
-## 🔍 Key Business Questions Solved
+## 📂 Project Structure
 
-- How have customers performed over time?
-- Which markets achieved sales targets?
-- Which products showed the highest growth?
-- Which divisions generated the most revenue?
-- Which products performed best and worst by quantity sold?
-- What new products were launched in 2021?
-- Which countries generated the highest sales?
-
----
-
-## 📈 Key Insights
-
-- Significant growth in customer net sales performance
-- India became the top-performing market in 2021
-- Strong sales growth across PC and Accessories divisions
-- New product launches performed successfully
-- Clear identification of high-performing and underperforming products
+```
+📁 AtliQ-Excel-Analytics
+│
+├── 📈 Project 1 — Sales Analytics        (7 Reports)
+├── 💰 Project 2 — Finance Analytics      (4 Reports)
+├── 🛠️  Application 1 — Project Priority Matrix
+└── 🔧 Application 2 — Scenario Planning Tool
+```
 
 ---
 
-# 📗 Project 2: Finance Analytics
+## 📈 Project 1: Sales Analytics
 
-## 📌 Objective
+**Objective:** Monitor sales activity, identify growth opportunities, and track KPIs across customers, products, and markets.
 
-To create financial reports for evaluating profit and loss performance across different fiscal periods and markets.
+### Reports & Key Insights
 
-## 📊 Reports Created
+**1. Customer Net Sales Performance**
+- Revenue grew from **$87.5M (2019)** → **$196.7M (2020)** → **$598.9M (2021)** — a **304.5% increase**
+- Top customers: Amazon, AtliQ e Store, AtliQ Exclusive
 
-1. P & L Statement by Fiscal Year  
-2. P & L Statement by Fiscal Months  
-3. P & L Statement by Markets  
-4. GM% by Quarters (Sub-zone)
+**2. Market Performance vs. Target**
+- Overall net sales **exceeded the 2021 target by 8.4%**
+- India fell short by **$9.6M**; China and USA outperformed their targets
+- Australia, Canada, and South Korea missed targets — highlighting areas for strategy review
 
----
+**3. Top 10 Products**
+- Identified products with the highest net sales growth from 2020 → 2021
+- Best performers: **AQ Electron 4 3600 Desktop Processor** and **AQ Pen Drive DRC**
 
-## 📈 Key Insights
+**4. Division Level Report**
+| Division | 2020 Sales | 2021 Sales | Growth |
+|----------|-----------|-----------|--------|
+| PC | $40.1M | $165.8M | ~313% |
+| Accessories & Peripherals | $105.2M | $338.4M | 321.5% |
+| Networking & Storage | $51.4M | $94.7M | 184.4% |
 
-- Net sales showed strong year-over-year growth
-- Gross margin performance remained stable
-- Market-wise profitability trends were identified
-- Regional financial performance comparison supported strategic planning
+**5. Top & Bottom 5 Products (by Quantity)**
+- Top product: **AQ Master Wired x1 Ms**
+- Bottom 5 flagged for strategic review — pricing, bundling, or discontinuation
 
----
+**6. New Products Launched in 2021**
+- **16 new products** introduced; **AQ Qwerty** was the standout performer
 
-# 🚀 Real-Time Business Applications
-
-## 📌 1. Project Priority Matrix
-
-### Objective
-
-To prioritize tasks based on:
-
-- Feasibility
-- Impact
-- Size
-
-### Features
-
-- Bubble Chart Visualization
-- 4-Quadrant Priority Matrix
-- Task Prioritization Framework
-- Interactive Decision-Making Tool
-
----
-
-## 📌 2. Scenario Planning Tool
-
-### Objective
-
-To simplify customer discount approval calculations using scenario-based analysis.
-
-### Features
-
-- Dynamic Filters
-- Scenario Planning
-- Best Case / Realistic / Worst Case Analysis
-- Gross Margin Target Tracking
-- Automated Business Calculations
+**7. Top 5 Countries by Net Sales (2021)**
+| Rank | Country | Net Sales |
+|------|---------|-----------|
+| 1 | India | $161.3M |
+| 2 | USA | — |
+| 3 | South Korea | — |
+| 4 | UK | — |
+| 5 | Canada | — |
 
 ---
 
-# ⚙️ Skills Demonstrated
+## 💰 Project 2: Finance Analytics
 
-## 💻 Technical Skills
+**Objective:** Evaluate financial health across time periods and markets to support budgeting, forecasting, and stakeholder reporting.
 
-- ETL Process (Extract, Transform, Load)
-- Power Query Transformations
-- Data Modelling
-- Star Schema Design
-- DAX Calculations
-- Pivot Table Reporting
-- Financial Analysis
-- Sales Analytics
-- KPI Tracking
+### Reports & Key Insights
 
----
+**1. P&L by Fiscal Year**
+| Metric | FY 2019 | FY 2020 | FY 2021 |
+|--------|---------|---------|---------|
+| Net Sales | $87.5M | $196.7M | $598.9M |
+| Gross Margin % | 41.4% | 37.3% | 36.4% |
 
-## 🤝 Soft Skills
+- **204.5% net sales growth** over 3 years
+- Slight GM% decline in 2021 signals need for cost optimization at scale
 
-- Analytical Thinking
-- Business Understanding
-- Report Design
-- Problem Solving
-- Attention to Detail
-- User-Centric Reporting
+**2. P&L by Fiscal Months**
+- 2021 showed significant growth with stable profit margins despite increased COGS
 
----
+**3. P&L by Markets (FY 2021)**
+- **Japan & New Zealand** — highest profit margins
+- **Germany** — lowest margin, flagged for pricing/cost review
+- **South Korea & USA** — most profitable overall
 
-# 📂 Repository Contents
-
-- Excel Project Files
-- PDF Reports
-- Business Applications
-- Analytical Reports
-- Supporting Documentation
+**4. GM% by Quarters (Sub-Zone)**
+- Regional margin variations tracked quarterly to support performance assessments and resource allocation
 
 ---
 
-# 📚 Key Learnings
+## 🛠️ Application 1: Project Priority Matrix
 
-Through these projects, I gained hands-on experience in:
+**Purpose:** Visually prioritize tasks based on objective criteria — so effort goes where it matters most.
 
-- End-to-End Data Analytics Workflow
-- Data Cleaning & Transformation
-- Business Reporting
-- Financial Analysis
-- Sales Performance Analysis
-- Building Interactive Business Solutions
-- Data-Driven Decision Making
+- **Criteria:** Feasibility · Impact · Size
+- **Output:** Bubble Chart with 4-grid layout — each bubble represents a task plotted by its scores
+- Helps avoid working on low-impact, high-effort tasks
 
 ---
 
-# 👨‍💻 About Me
+## 🔧 Application 2: Scenario Planning Tool
 
-I developed these projects as part of my Data Analytics learning journey to strengthen my practical skills in Excel-based analytics, reporting, and business intelligence.
+**Purpose:** Simplify and speed up **customer discount approval** decisions using scenario modelling.
 
-These projects helped me understand how businesses use data to make strategic decisions and improve performance.
+- **Filters:** Customer · Product · Date
+- **Parameters:** Discount % · COGS · Average NIP · GM Target
+- **Scenarios modelled:**
+
+| Scenario | What it shows |
+|----------|--------------|
+| ✅ Best Case | Maximum possible GM under given discount |
+| 🔄 Realistic | Expected outcome based on current data |
+| ⚠️ Worst Case | Minimum GM — helps set approval thresholds |
+
+**Calculated outputs:** Sales Units · NIS · Post-Discount NS · COGS · GM · GM vs Target
+
+---
+
+## 💡 Why This Project Matters
+
+Sales data without structure is just noise. These reports convert noise into decisions — helping AtliQ identify where to push, where to pull back, which customers to prioritize, and which markets need attention. The Scenario Planning Tool alone has direct business value: it removes guesswork from discount approvals and protects gross margins.
+
+---
+
+## 📚 Data Source
+
+This project was completed as part of the **Codebasics Excel course**, using AtliQ Hardwares' dataset.
+
+---
+
+*Built with Microsoft Excel 365 | Domain: Sales & Finance Analytics*
